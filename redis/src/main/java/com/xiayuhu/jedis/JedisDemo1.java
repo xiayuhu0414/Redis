@@ -1,4 +1,4 @@
-package com.xyh.jedis;
+package com.xiayuhu.jedis;
 
 import org.junit.Test;
 import redis.clients.jedis.Jedis;

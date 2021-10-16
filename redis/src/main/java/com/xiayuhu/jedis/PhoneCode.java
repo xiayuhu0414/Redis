@@ -1,4 +1,4 @@
-package com.xyh.jedis;
+package com.xiayuhu.jedis;
 
 import redis.clients.jedis.Jedis;
 
